@@ -12,7 +12,8 @@ To write a Java program to Count how many times a number appears in an array rec
 
 ## Program:
 ```java
-
+Developed by: VARSHINI M
+RegisterNumber: 212224060293
 import java.util.Scanner;
 
 public class CountOccurrences {
