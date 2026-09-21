@@ -11,10 +11,10 @@ To write a Java program  to Count the number of inversions in an array where inv
 
 ## Program:
 ```java
-*/
+/*
 Developed by: VARSHINI M
 RegisterNumber: 212224060293
-/*
+*/
 import java.util.Scanner;
 
 public class CountInversions {
