@@ -1,5 +1,5 @@
 # Ex5 Count Inversions in an Array
-DAT-17.07.26
+## DATE-17.07.26
 ## AIM:
 To write a Java program  to Count the number of inversions in an array where inversion is defined as: arr[i] > arr[j] and i < j
 
